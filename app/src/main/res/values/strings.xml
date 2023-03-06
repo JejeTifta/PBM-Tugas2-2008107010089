@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Tugas 02 - Aja Tifta Umara</string>
+    <string name="informatika">Pemrograman Berbasis Mobile</string>
+    <string name="lorem_ipsum">Pemrograman berbasis mobile adalah teknik pemrograman yang digunakan untuk mengembangkan aplikasi mobile pada berbagai platform seperti iOS dan Android. Pemrograman berbasis mobile memungkinkan pengembang untuk membuat aplikasi yang dapat diakses melalui perangkat mobile seperti smartphone dan tablet.
+
+Dalam pemrograman berbasis mobile, pengembang menggunakan bahasa pemrograman seperti Java, Kotlin, Swift, dan React Native. Setiap bahasa memiliki kelebihan dan kekurangan masing-masing, tergantung pada platform dan tujuan pengembangan.
+
+Aplikasi mobile yang dikembangkan melalui pemrograman berbasis mobile dapat memiliki berbagai fitur seperti kamera, lokasi, sensor, dan notifikasi push. Fitur-fitur ini memungkinkan pengguna untuk menggunakan aplikasi secara lebih interaktif dan lebih terpersonalisasi.
+
+Pemrograman berbasis mobile memungkinkan pengembang untuk menciptakan aplikasi yang dapat diakses secara mudah dan cepat oleh pengguna melalui perangkat mobile mereka. Aplikasi yang dibuat melalui pemrograman berbasis mobile dapat diunduh dan digunakan oleh pengguna melalui platform aplikasi seperti Google Play Store dan Apple App Store.
+
+Pengembangan aplikasi mobile melalui pemrograman berbasis mobile juga memungkinkan pengembang untuk membuat aplikasi yang lebih ringan dan efisien. Ini dikarenakan pengembangan aplikasi mobile melalui pemrograman berbasis mobile memerlukan lebih sedikit sumber daya dan kapasitas penyimpanan pada perangkat mobile.
+
+Dalam pengembangan aplikasi mobile, pemrograman berbasis mobile juga memungkinkan pengembang untuk mengakses fitur dan layanan pada perangkat mobile secara lebih mudah dan terintegrasi. Misalnya, pengembang dapat mengakses kamera dan lokasi pengguna secara langsung melalui aplikasi yang dibuat.
+
+Pemrograman berbasis mobile juga dapat meningkatkan produktivitas pengembangan aplikasi dengan menggunakan alat bantu seperti Android Studio dan Xcode. Alat bantu ini memudahkan pengembang dalam mengembangkan, menguji, dan memelihara aplikasi mobile secara lebih efisien.
+
+Pemrograman berbasis mobile juga memungkinkan pengembang untuk membuat aplikasi yang dapat bekerja secara offline dengan menggunakan penyimpanan cache pada perangkat mobile. Hal ini memungkinkan pengguna untuk mengakses aplikasi secara offline tanpa koneksi internet.
+
+Dalam pengembangan aplikasi mobile, pemrograman berbasis mobile juga memungkinkan pengembang untuk menggunakan teknologi seperti Artificial Intelligence (AI) dan Machine Learning (ML) untuk meningkatkan kinerja dan fungsionalitas aplikasi.
+
+Pemrograman berbasis mobile terus berkembang dan mengalami perubahan sesuai dengan perkembangan teknologi dan kebutuhan pasar. Oleh karena itu, penting bagi pengembang untuk terus memperbarui pengetahuan dan keterampilan dalam pemrograman berbasis mobile agar dapat mengembangkan aplikasi yang lebih canggih dan inovatif.
+
+
+
+
+    </string>
+</resources>
